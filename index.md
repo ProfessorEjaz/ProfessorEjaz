@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Punjab Group Of Colleges
+  I worked as Head of Department(URDU) in Punjab Group of Colleges in Pakpattan. Here I got the best Teacher Award in 2019. Also got the Appreciation award in 2020. The percentage of my Department was 85% in Board Examination.I also handle the Discipline Comitte here
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![alt text](images/Aspire.png)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -19,11 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
